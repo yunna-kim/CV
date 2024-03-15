@@ -1,4 +1,4 @@
-# Yunna Kim, MD (KM), PhD
+# Yunna Kim, | MD (KM), PhD
 Clinical assistant professor, Board-certified neuropsychiatrist | Portfolio: [yunna-kim.github.io](https://yunna-kim.github.io/)
 
 ## Summary
