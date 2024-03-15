@@ -1,5 +1,5 @@
-# Yunna Kim
-MD (KM), PhD | Portfolio: [yunna-kim.github.io](https://yunna-kim.github.io/)
+# Yunna Kim, MD (KM), PhD
+Clinical assistant professor, Board-certified neuropsychiatrist | Portfolio: [yunna-kim.github.io](https://yunna-kim.github.io/)
 
 ## Summary
 **Prof. Yunna Kim**, **a board-certified neuropsychiatrist**, is **a clinical assistant professor in the Department of Neuropsychiatry at Kyung Hee University Korean Medicine Hospital**. She is renowned for her research on the efficacy of Korean medicine in treating neuropsychiatric diseases, particularly focusing on **neuroinflammation** in disorders like depression and Alzheimer's disease. She has recently extended her research interests to include **child and adolescent psychiatry and electroencephalography (EEG)**. 
