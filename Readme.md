@@ -1,7 +1,7 @@
 # Yunna Kim, MD (KM), PhD
-Clinical assistant professor, Board-certified neuropsychiatrist | Portfolio: [yunna-kim.github.io](https://yunna-kim.github.io/)
+Clinical assistant professor, Board-certified neuropsychiatrist | 
 
-[Email](mailto:yunna.anna.kim@khu.ac.kr) / [ORCID](https://orcid.org/0000-0003-2286-1242) / [ResearchGate](https://www.researchgate.net/profile/Yunna-Kim-4) / [GitHub](https://yunna-kim.github.io/) 
+[Email](mailto:yunna.anna.kim@khu.ac.kr) / [ORCID](https://orcid.org/0000-0003-2286-1242) / [ResearchGate](https://www.researchgate.net/profile/Yunna-Kim-4) / [GitHub](https://yunna-kim.github.io/) / [Website (KR)](https://www.khmc.or.kr/kr/treatment/doctor/14950/profile.do) / [Website (EN)](https://www.khmc.or.kr/en/treatment/department/2314000000/timetable.do)
 
 
 #### Summary
