@@ -29,9 +29,9 @@ Research
 - Data science
 
 ## 🎓 Education
-- **Ph.D.**, Neuropsychiatry, Clinical Korean Medicine | <a href="https://khu.ac.kr/" target="_blank">Kyung Hee University</a> (_Sep 2016 - Aug 2020_)<br> **Awarded _First Prize, Kyung Hee University Best Dissertation Award (Medical science)_**<br>
-- **M.Sc.**, Neuropsychiatry, Clinical Korean Medicine	| <a href="https://khu.ac.kr/" target="_blank">Kyung Hee University</a> (_Sep 2014 - Aug 2016_)	<br>
-- **B.Sc.**, Korean Medicine | <a href="https://kmc.khu.ac.kr/" target="_blank">Kyung Hee University</a> (_Mar 2008 - Feb 2014_)<br>
+- **Ph.D.**, Neuropsychiatry, Clinical Korean Medicine | <a href="https://khu.ac.kr/" target="_blank">Kyung Hee University</a> (_Sep 2016 - Aug 2020_)<br> **Awarded _First Prize, Kyung Hee University Best Dissertation Award (Medical science)_** 
+- **M.Sc.**, Neuropsychiatry, Clinical Korean Medicine	| <a href="https://khu.ac.kr/" target="_blank">Kyung Hee University</a> (_Sep 2014 - Aug 2016_) 
+- **B.Sc.**, Korean Medicine | <a href="https://kmc.khu.ac.kr/" target="_blank">Kyung Hee University</a> (_Mar 2008 - Feb 2014_) 
 
 **Residency**
 - **Neuropsychiatric Resident**, Department of Neuropsychiatry, Korean Medicine Hospital | <a href="https://www.khmc.or.kr/kr/" target="_blank">Kyung Hee University Medical Center</a> (_Mar 2015 - Feb 2018_)
