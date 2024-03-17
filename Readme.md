@@ -29,13 +29,13 @@ Research
 - Data science
 
 ## 🎓 Education and Qualifications
-**Ph.D.**, Neuropsychiatry, Clinical Korean Medicine, [Kyung Hee University](https://khu.ac.kr/), Seoul, Korea (_Sep 2016 - Aug 2020_)<br>
-**Awarded _First Prize, Kyung Hee University Best Dissertation Award (Medical science)_** <br>
-**M.Sc.**, Neuropsychiatry, Clinical Korean Medicine, [Kyung Hee University](https://khu.ac.kr/), Seoul, Korea (_Sep 2014 - Aug 2016_)<br> 
-**B.Sc.**, Korean Medicine, [Kyung Hee University](https://khu.ac.kr/), Seoul, Korea (_Mar 2008 - Feb 2014_) 
+- **Ph.D.**, Neuropsychiatry, Clinical Korean Medicine, [Kyung Hee University](https://khu.ac.kr/), Seoul, Korea (_Sep 2016 - Aug 2020_)<br>
+ - **Awarded _First Prize, Kyung Hee University Best Dissertation Award (Medical science)_** <br>
+- **M.Sc.**, Neuropsychiatry, Clinical Korean Medicine, [Kyung Hee University](https://khu.ac.kr/), Seoul, Korea (_Sep 2014 - Aug 2016_)<br> 
+- **B.Sc.**, Korean Medicine, [Kyung Hee University](https://khu.ac.kr/), Seoul, Korea (_Mar 2008 - Feb 2014_) 
 
 **Residency**<br> 
-**Neuropsychiatric Resident**, Department of Neuropsychiatry, Korean Medicine Hospital, [Kyung Hee University Medical Center](https://www.khmc.or.kr/kr/), Seoul, Korea (_Mar 2015 - Feb 2018_)
+- **Neuropsychiatric Resident**, Department of Neuropsychiatry, Korean Medicine Hospital, [Kyung Hee University Medical Center](https://www.khmc.or.kr/kr/), Seoul, Korea (_Mar 2015 - Feb 2018_)
 
 **Medical Licensure/ Certifications**
 - Licensure of Medical Doctor of Korean Medicine
@@ -43,10 +43,10 @@ Research
 - Certification of Clinical Psychodrama Director
 
 ## 💼 Empolyment
-**Clinical assistant professor**, Dept of Neuropsychiatry, Korean Medicine Hospital | [Kyung Hee University Medical Center](https://www.khmc.or.kr/) (_Mar 2021 - Present_)<br>
-**Fellow**, Dept of Neuropsychiatry, Korean Medicine Hospital | [Kyung Hee University Medical Center](https://www.khmc.or.kr/) (_Mar 2019 - Feb 2021_)<br>
-**Part-time lecturer**, Neuropsychiatry, Clinical Korean Medicine	| [Kyung Hee University](https://khu.ac.kr/) (_Sep 2019 - Present_) 
-**Research Fellow**, Dept of Neuropsychiatry, Korean Medicine Hospital | [Kyung Hee University Medical Center](https://www.khmc.or.kr/) (_Mar 2018 - Feb 2019_)<br>
+- **Clinical assistant professor**, Dept of Neuropsychiatry, Korean Medicine Hospital | [Kyung Hee University Medical Center](https://www.khmc.or.kr/) (_Mar 2021 - Present_)<br>
+- **Fellow**, Dept of Neuropsychiatry, Korean Medicine Hospital | [Kyung Hee University Medical Center](https://www.khmc.or.kr/) (_Mar 2019 - Feb 2021_)<br>
+- **Part-time lecturer**, Neuropsychiatry, Clinical Korean Medicine	| [Kyung Hee University](https://khu.ac.kr/) (_Sep 2019 - Present_) 
+- **Research Fellow**, Dept of Neuropsychiatry, Korean Medicine Hospital | [Kyung Hee University Medical Center](https://www.khmc.or.kr/) (_Mar 2018 - Feb 2019_)<br>
 
 ## 🔬 Research Experience
 ### Current Research
