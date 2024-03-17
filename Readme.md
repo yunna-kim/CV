@@ -49,23 +49,18 @@ Research
 
 ## 🔬 Research Experience
 ### Current Research
-|2023 - 2024| **The Establishment of Korean medicine Clinical Practice Guideline(KMCPG) and Critical Pathway(CP)for Attention Deficit Hyperactivity Disorder (ADHD)** | Korea Health Industry Development Institute|
-  - Principal investigator
-|2023 - 2027| **Development of head meridian activity measuring device** | Korea Health Industry Development Institute|
-  - Principal investigator
-|2023 - 2026| **Discovery of herb-pair for depression and investigation of its lipocalin-2-associated mechanism through artificial intelligence-based drug repositioning** | National Research Foundation of Korea|
-  - Principal investigator
-|2021 - 2023| **Development of head meridian activity measurement algorithm and establishment of clinical data through head meridian diagnosis study** | Korea Health Industry Development Institute|
-  - Principal investigator
-|2020 - 2023| **Investigation of novel neuroinflammatory mechanism of depression using astrocyte-deficient animal model and research on candidate herbal compound modulating lipocalin-2** | National Research Foundation of Korea| 
-  - Principal investigator
+|2023 - 2024| **The Establishment of Korean medicine Clinical Practice Guideline(KMCPG) and Critical Pathway(CP)for Attention Deficit Hyperactivity Disorder (ADHD)**, Korea Health Industry Development Institute <br> - Principal investigator|
+|2023 - 2027| **Development of head meridian activity measuring device**, Korea Health Industry Development Institute <br> - Principal investigator|
+|2023 - 2026| **Discovery of herb-pair for depression and investigation of its lipocalin-2-associated mechanism through artificial intelligence-based drug repositioning**, National Research Foundation of Korea <br> - Principal investigator|
+|2021 - 2023| **Development of head meridian activity measurement algorithm and establishment of clinical data through head meridian diagnosis study**, Korea Health Industry Development Institute <br> - Principal investigator|
+|2020 - 2023| **Investigation of novel neuroinflammatory mechanism of depression using astrocyte-deficient animal model and research on candidate herbal compound modulating lipocalin-2**, National Research Foundation of Korea <br>- Principal investigator|
 
 ## 🏆 Awards and Honors
-|2023 | **Integrative Talent Award in Korean Medicine** | The Association of Women Korean Medical Doctor, Korea|
-|2020 | **First Prize, Kyung Hee University Best Dissertation Award (Medical science)** | Kyung Hee University, Korea|
-|2017 | **Second Place, 22nd Resident Best Paper Award** | Kyung Hee Medical Center, Korea|
-|2016 | **First Place, 21st Resident Best Paper Award** | Kyung Hee Medical Center, Korea|
-|2013 | **Young Hur Jun Award (Talent Award)** | College of Korean Medicine, Kyung Hee University, Korea|
+|2023 | **Integrative Talent Award in Korean Medicine**, The Association of Women Korean Medical Doctor, Korea|
+|2020 | **First Prize, Kyung Hee University Best Dissertation Award (Medical science)**, Kyung Hee University, Korea|
+|2017 | **Second Place, 22nd Resident Best Paper Award**, Kyung Hee Medical Center, Korea|
+|2016 | **First Place, 21st Resident Best Paper Award**, Kyung Hee Medical Center, Korea|
+|2013 | **Young Hur Jun Award (Talent Award)**, College of Korean Medicine, Kyung Hee University, Korea|
 
 ## 🎤 Public Speaking
 
