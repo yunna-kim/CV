@@ -48,31 +48,19 @@ Research
 - Research Fellow, Dept of Neuropsychiatry, Korean Medicine Hospital | <a href="https://www.khmc.or.kr/" target="_blank">Kyung Hee University Medical Center</a> (_Mar 2018 - Feb 2019_)<br>
 
 ## 🔬 Research Experience
-**Company Name** (Dates)   
-Job Title
-- Accomplishment 1
-- Accomplishment 2  
+### Current Research
+- _2023 - 2024_ | **The Establishment of Korean medicine Clinical Practice Guideline(KMCPG) and Critical Pathway(CP)for Attention Deficit Hyperactivity Disorder (ADHD)** | Korea Health Industry Development Institute
+  - Principal investigator
+- **Development of head meridian activity measuring device** | Korea Health Industry Development Institute (_2023 - 2027_)
+  - Principal investigator
+- **Discovery of herb-pair for depression and investigation of its lipocalin-2-associated mechanism through artificial intelligence-based drug repositioning** | National Research Foundation of Korea (_2023 - 2026_)
+  - Principal investigator
+- **Development of head meridian activity measurement algorithm and establishment of clinical data through head meridian diagnosis study** | Korea Health Industry Development Institute (_2021 - 2023_)
+  - Principal investigator
+- **Investigation of novel neuroinflammatory mechanism of depression using astrocyte-deficient animal model and research on candidate herbal compound modulating lipocalin-2** | National Research Foundation of Korea (_2020 - 2023_)
+  - Principal investigator
 
-**Company Name** (Dates)
-Job Title
-- Accomplishment 1
-- Accomplishment 2
-
-## Projects
-**Project 1** (link to project site or GitHub repo)  
-- Description of tech used and what the project involved/accomplished
-- Accomplishment 
-
-**Project 2** (link)
-- Description 
-- Accomplishment
-
-## Education
-**Degree** | University Name | Date Graduated
-Courses, activities, or other details
-
-
-## 🏆 Accomplishments
+## 🏆 Awards and Honors
 
 **Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
 Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
@@ -125,6 +113,22 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 - **<ins>Kim, Y.</ins>**, Shin, H., Moon, W., & Cho, S.-H. (2016). Use of complementary and alternative medicine by lung cancer patients in Korea: A qualitative study. European Journal of Integrative Medicine, 8(3), 266–274. https://doi.org/10.1016/j.eujim.2015.12.014
 - **<ins>Kim, Y.</ins>**, Chung, S.-Y., & Cho, S.-H. (2015). Neuropsychiatry residents’ attitudes and perceptions regarding evidence-based medicine: A mixed-methods study. Oriental Pharmacy and Experimental Medicine, 15(4), 379–386. https://doi.org/10.1007/s13596-015-0210-x
 - **<ins>Kim, Y.</ins>**, & Cho, S.-H. (2014). A survey of complementary and alternative medicine practitioner’s perceptions of evidence-based medicine. European Journal of Integrative Medicine, 6(2), 211–219.
+
+## Patents
+- Cho, SH., Lee, HY., Choi, HJ., Kim, Y. (2017). A composition comprising herbal mixture extract for neuroprotection <br>Korea - Registration No. 10-1987418-0000
+-	Cho, SH., Kim, Y. (2016). Composition comprising extract of Lindera glauca Blume for preventing or treating neurodegenerative disease <br>Korea – Registration No. 10-1917132-0000
+3.	Cho, SH., Lee, HY., Kwon, Y., Kim, Y. (2016). Pharmaceutical composition for preventing or treating neurodegerative disorder comprising an extract of Sophora japonica L.<br>US – Application No. 16/328194
+
+## Conference presentations
+### Oral Presentations
+- Kim, Y., Lee, H.-Y., Choi, Y.-J., Cho, S.-H. (2019). Antidepressant effects of ginsenoside Rf on behavioral change in the glial degeneration model of depression by reversing glial loss. The Korean Society of Ginseng (2019 Autumn Ginseng Jeju Conference), Jeju, Korea
+
+### Poster Presentations
+- Kim, Y., Cho, S.-H. (2020). Mixture of Rhodiola rosea and Nelumbo nucifera ameliorates sleep disturbance. Academic Consortium for Integrative Medicine & Health (2020 International Congress on Integrative Medicine & Health). Online
+- Kim, Y., Cho, S.-H. (2019). Danggui-Shaoyao-San for dementia. European Congress of Integrative Medicine (12th European Congress of Integrative Medicine). Barcelona, Spain
+- Kim, Y., Lee, H.-Y., Cho, S.-H. (2016). Antidepressant Effects of Pharmacopuncture (HJ11) Treatment on Chronic Stress-induced Changes in Mice. International Scientific Acupuncture and Meridian Symposium (iSAMS) 2016. Hong Kong, China
+- Kim, Y., Cho, S.-H. (2011). Complementary and Alternative Medicine Practitioners' Perceptions of the Route to Evidence-based Medicine; Questionnaire Survey and Qualitative Study. International Society for Complementary Medicine Research (6th International Congress on Complementary Medicine Research). Chengdu, China
+
 
 ## 📞 Contact
 
