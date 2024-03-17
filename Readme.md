@@ -52,12 +52,16 @@ Research
 ### Current Research
 **The Establishment of Korean medicine Clinical Practice Guideline(KMCPG) and Critical Pathway(CP)for Attention Deficit Hyperactivity Disorder (ADHD)**<br>
 -  Principal investigator | Korea Health Industry Development Institute | 2023 - 2024<br>
+
 **Development of head meridian activity measuring device**<br>
 - Principal investigator | Korea Health Industry Development Institute | 2023 - 2027 <br>
+
 **Discovery of herb-pair for depression and investigation of its lipocalin-2-associated mechanism through artificial intelligence-based drug repositioning**<br>
 - Principal investigator | National Research Foundation of Korea | 2023 - 2026<br>
+
 **Development of head meridian activity measurement algorithm and establishment of clinical data through head meridian diagnosis study**<br>
 - Principal investigator | Korea Health Industry Development Institute | 2021 - 2023 <br>
+
 **Investigation of novel neuroinflammatory mechanism of depression using astrocyte-deficient animal model and research on candidate herbal compound modulating lipocalin-2**<br>
 - Principal investigator | National Research Foundation of Korea | 2020 - 2023 <br>
 
