@@ -114,16 +114,16 @@ Research
 
 ## Professional Service
 ### Acamedic Service
-| 2024-Present |   Director of Academic Affairs, The Association of Women Korean Medical Doctor |  
-| 2022-Present |   Director of Medical Insurance Policy, The Society of Korean Medicine Neuropsychiatry |  
-| 2021-Present |   Academic affairs staff, Korean Academy for Clinical Arts |  
-| 2024 |   Guest editor, BMC Complementary and Alternative Medicine <br> _Anxiety and stress-related disorders: the role of botanicals_</br> | 
-| 2020-2024 |   Information Provider, Korean Medicine Convergence Research Information Center |  
-| 2018 |   Scientific committee member, 18th Congress of the Asian College of Psychosomatic Medicine |  
-| 2016-2020 |   Manuscript editor, Stress |  
+| 2024-Present   | Director of Academic Affairs, The Association of Women Korean Medical Doctor | 
+| 2022-Present   | Director of Medical Insurance Policy, The Society of Korean Medicine Neuropsychiatry | 
+| 2021-Present   | Academic affairs staff, Korean Academy for Clinical Arts | 
+| 2024   | Guest editor, BMC Complementary and Alternative Medicine <br> _Anxiety and stress-related disorders: the role of botanicals_</br> | 
+| 2020-2024   | Information Provider, Korean Medicine Convergence Research Information Center | 
+| 2018   | Scientific committee member, 18th Congress of the Asian College of Psychosomatic Medicine | 
+| 2016-2020   | Manuscript editor, Stress | 
 
 ### University Service
-| 2018-Present |  Counselor, Office of Counseling and Mental Health Services, College of Korean Medicine, Kyung Hee University | 
+| 2018-Present  |  Counselor, Office of Counseling and Mental Health Services, College of Korean Medicine, Kyung Hee University | 
 
 ## 📞 Contact
 
