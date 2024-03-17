@@ -29,12 +29,12 @@ Research
 - Data science
 
 ## 🎓 Education and Qualifications
-**Ph.D.**, Neuropsychiatry, Clinical Korean Medicine | <a href="https://khu.ac.kr/" target="_blank">Kyung Hee University</a> (_Sep 2016 - Aug 2020_)<br> **Awarded _First Prize, Kyung Hee University Best Dissertation Award (Medical science)_** 
-**M.Sc.**, Neuropsychiatry, Clinical Korean Medicine	| <a href="https://khu.ac.kr/" target="_blank">Kyung Hee University</a> (_Sep 2014 - Aug 2016_) 
-**B.Sc.**, Korean Medicine | <a href="https://kmc.khu.ac.kr/" target="_blank">Kyung Hee University</a> (_Mar 2008 - Feb 2014_) 
+- **Ph.D.**, Neuropsychiatry, Clinical Korean Medicine | <a href="https://khu.ac.kr/" target="_blank">Kyung Hee University</a> (_Sep 2016 - Aug 2020_)<br>   - **Awarded _First Prize, Kyung Hee University Best Dissertation Award (Medical science)_** 
+- **M.Sc.**, Neuropsychiatry, Clinical Korean Medicine	| <a href="https://khu.ac.kr/" target="_blank">Kyung Hee University</a> (_Sep 2014 - Aug 2016_) 
+- **B.Sc.**, Korean Medicine | <a href="https://kmc.khu.ac.kr/" target="_blank">Kyung Hee University</a> (_Mar 2008 - Feb 2014_) 
 
 **Residency**
-**Neuropsychiatric Resident**, Department of Neuropsychiatry, Korean Medicine Hospital | <a href="https://www.khmc.or.kr/kr/" target="_blank">Kyung Hee University Medical Center</a> (_Mar 2015 - Feb 2018_)
+- **Neuropsychiatric Resident**, Department of Neuropsychiatry, Korean Medicine Hospital | <a href="https://www.khmc.or.kr/kr/" target="_blank">Kyung Hee University Medical Center</a> (_Mar 2015 - Feb 2018_)
 
 **Medical Licensure/ Certifications**
 - Licensure of Medical Doctor of Korean Medicine
@@ -50,22 +50,22 @@ Research
 ## 🔬 Research Experience
 ### Current Research
 **The Establishment of Korean medicine Clinical Practice Guideline(KMCPG) and Critical Pathway(CP)for Attention Deficit Hyperactivity Disorder (ADHD)**
--  Principal investigator | Korea Health Industry Development Institute | 2023 - 2024 |   
+-  Principal investigator | Korea Health Industry Development Institute | 2023 - 2024
 **Development of head meridian activity measuring device**
-- Principal investigator | Korea Health Industry Development Institute | 2023 - 2027 |   
+- Principal investigator | Korea Health Industry Development Institute | 2023 - 2027 
 **Discovery of herb-pair for depression and investigation of its lipocalin-2-associated mechanism through artificial intelligence-based drug repositioning**
-- Principal investigator | National Research Foundation of Korea | 2023 - 2026 |  
+- Principal investigator | National Research Foundation of Korea | 2023 - 2026
 **Development of head meridian activity measurement algorithm and establishment of clinical data through head meridian diagnosis study**
-- Principal investigator | Korea Health Industry Development Institute | 2021 - 2023 |  
+- Principal investigator | Korea Health Industry Development Institute | 2021 - 2023 
 **Investigation of novel neuroinflammatory mechanism of depression using astrocyte-deficient animal model and research on candidate herbal compound modulating lipocalin-2**
-- Principal investigator | National Research Foundation of Korea | 2020 - 2023 |  
+- Principal investigator | National Research Foundation of Korea | 2020 - 2023 
 
 ## 🏆 Awards and Honors
-| 2023 |  **Integrative Talent Award in Korean Medicine**, The Association of Women Korean Medical Doctor, Korea |  
-| 2020 |  **First Prize, Kyung Hee University Best Dissertation Award (Medical science)**, Kyung Hee University, Korea |  
-| 2017 |  **Second Place, 22nd Resident Best Paper Award**, Kyung Hee Medical Center, Korea |  
-| 2016 |  **First Place, 21st Resident Best Paper Award**, Kyung Hee Medical Center, Korea |  
-| 2013 |  **Young Hur Jun Award (Talent Award)**, College of Korean Medicine, Kyung Hee University, Korea |  
+2023 |  **Integrative Talent Award in Korean Medicine**, The Association of Women Korean Medical Doctor, Korea 
+2020 |  **First Prize, Kyung Hee University Best Dissertation Award (Medical science)**, Kyung Hee University, Korea 
+2017 |  **Second Place, 22nd Resident Best Paper Award**, Kyung Hee Medical Center, Korea 
+2016 |  **First Place, 21st Resident Best Paper Award**, Kyung Hee Medical Center, Korea 
+2013 |  **Young Hur Jun Award (Talent Award)**, College of Korean Medicine, Kyung Hee University, Korea 
 
 ## 🎤 Public Speaking
 
