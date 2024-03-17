@@ -42,7 +42,10 @@ Research
 - Certification of Clinical Psychodrama Director
 
 ## 💼 Empolyment
-
+- Clinical assistant professor, Dept of Neuropsychiatry, Korean Medicine Hospital | <a href="https://www.khmc.or.kr/" target="_blank">Kyung Hee University Medical Center</a> (_Mar 2021 - Present_)<br>
+- Fellow, Dept of Neuropsychiatry, Korean Medicine Hospital | <a href="https://www.khmc.or.kr/" target="_blank">Kyung Hee University Medical Center</a> (_Mar 2019 - Feb 2021_)<br>
+- Part-time lecturer, Neuropsychiatry, Clinical Korean Medicine	| <a href="https://khu.ac.kr/" target="_blank">Kyung Hee University</a> (_Sep 2019 - Present_) 
+- Research Fellow, Dept of Neuropsychiatry, Korean Medicine Hospital | <a href="https://www.khmc.or.kr/" target="_blank">Kyung Hee University Medical Center</a> (_Mar 2018 - Feb 2019_)<br>
 
 ## 🔬 Research Experience
 **Company Name** (Dates)   
