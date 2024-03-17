@@ -105,7 +105,7 @@ Research
 ## Patents
 - Cho, SH., Lee, HY., Choi, HJ., Kim, Y. (2017). A composition comprising herbal mixture extract for neuroprotection <br>Korea - Registration No. 10-1987418-0000
 -	Cho, SH., Kim, Y. (2016). Composition comprising extract of Lindera glauca Blume for preventing or treating neurodegenerative disease <br>Korea – Registration No. 10-1917132-0000
-3.	Cho, SH., Lee, HY., Kwon, Y., Kim, Y. (2016). Pharmaceutical composition for preventing or treating neurodegerative disorder comprising an extract of Sophora japonica L.<br>US – Application No. 16/328194
+- Cho, SH., Lee, HY., Kwon, Y., Kim, Y. (2016). Pharmaceutical composition for preventing or treating neurodegerative disorder comprising an extract of Sophora japonica L.<br>US – Application No. 16/328194
 
 ## Conference Presentations
 ### Oral Presentations
