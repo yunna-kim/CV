@@ -49,23 +49,23 @@ Research
 
 ## 🔬 Research Experience
 ### Current Research
-- _2023 - 2024_ | **The Establishment of Korean medicine Clinical Practice Guideline(KMCPG) and Critical Pathway(CP)for Attention Deficit Hyperactivity Disorder (ADHD)** | Korea Health Industry Development Institute
+|2023 - 2024| **The Establishment of Korean medicine Clinical Practice Guideline(KMCPG) and Critical Pathway(CP)for Attention Deficit Hyperactivity Disorder (ADHD)** | Korea Health Industry Development Institute
   - Principal investigator
-- _2023 - 2027_ | **Development of head meridian activity measuring device** | Korea Health Industry Development Institute
+|2023 - 2027| **Development of head meridian activity measuring device** | Korea Health Industry Development Institute
   - Principal investigator
-- _2023 - 2026_ | **Discovery of herb-pair for depression and investigation of its lipocalin-2-associated mechanism through artificial intelligence-based drug repositioning** | National Research Foundation of Korea
+|2023 - 2026| **Discovery of herb-pair for depression and investigation of its lipocalin-2-associated mechanism through artificial intelligence-based drug repositioning** | National Research Foundation of Korea
   - Principal investigator
-- _2021 - 2023_ | **Development of head meridian activity measurement algorithm and establishment of clinical data through head meridian diagnosis study** | Korea Health Industry Development Institute
+|2021 - 2023| **Development of head meridian activity measurement algorithm and establishment of clinical data through head meridian diagnosis study** | Korea Health Industry Development Institute
   - Principal investigator
-- _2020 - 2023_ | **Investigation of novel neuroinflammatory mechanism of depression using astrocyte-deficient animal model and research on candidate herbal compound modulating lipocalin-2** | National Research Foundation of Korea 
+|2020 - 2023| **Investigation of novel neuroinflammatory mechanism of depression using astrocyte-deficient animal model and research on candidate herbal compound modulating lipocalin-2** | National Research Foundation of Korea| 
   - Principal investigator
 
 ## 🏆 Awards and Honors
-- 2023 | **Integrative Talent Award in Korean Medicine** | The Association of Women Korean Medical Doctor, Korea
-- 2020 | **First Prize, Kyung Hee University Best Dissertation Award (Medical science)** | Kyung Hee University, Korea
-- 2017 | **Second Place, 22nd Resident Best Paper Award** | Kyung Hee Medical Center, Korea
-- 2016 | **First Place, 21st Resident Best Paper Award** | Kyung Hee Medical Center, Korea
-- 2013 | **Young Hur Jun Award (Talent Award)** | College of Korean Medicine, Kyung Hee University, Korea
+|2023 | **Integrative Talent Award in Korean Medicine** | The Association of Women Korean Medical Doctor, Korea|
+|2020 | **First Prize, Kyung Hee University Best Dissertation Award (Medical science)** | Kyung Hee University, Korea|
+|2017 | **Second Place, 22nd Resident Best Paper Award** | Kyung Hee Medical Center, Korea|
+|2016 | **First Place, 21st Resident Best Paper Award** | Kyung Hee Medical Center, Korea|
+|2013 | **Young Hur Jun Award (Talent Award)** | College of Korean Medicine, Kyung Hee University, Korea|
 
 ## 🎤 Public Speaking
 
@@ -119,20 +119,20 @@ Research
 
 ## Professional Service
 ### Acamedic Service
-- 2024-Present | Director of Academic Affairs, The Association of Women Korean Medical Doctor
-- 2022-Present | Director of Medical Insurance Policy, The Society of Korean Medicine Neuropsychiatry
-- 2021-Present | Academic affairs staff, Korean Academy for Clinical Arts
-- 2024 | Guest editor, BMC Complementary and Alternative Medicine
+|2024-Present| Director of Academic Affairs, The Association of Women Korean Medical Doctor|
+|2022-Present| Director of Medical Insurance Policy, The Society of Korean Medicine Neuropsychiatry|
+|2021-Present| Academic affairs staff, Korean Academy for Clinical Arts|
+|2024| Guest editor, BMC Complementary and Alternative Medicine|
   - _Anxiety and stress-related disorders: the role of botanicals_
-- 2020-2024 | Information Provider, Korean Medicine Convergence Research Information Center
-- 2018 | Scientific committee member, 18th Congress of the Asian College of Psychosomatic Medicine
-- 2016-2020 | Manuscript editor, Stress
+|2020-2024| Information Provider, Korean Medicine Convergence Research Information Center|
+|2018 | Scientific committee member, 18th Congress of the Asian College of Psychosomatic Medicine|
+|2016-2020| Manuscript editor, Stress|
 
 ### University Service
-- 2018-Present | Counselor, Office of Counseling and Mental Health Services, College of Korean Medicine, Kyung Hee University
+|2018-Present| Counselor, Office of Counseling and Mental Health Services, College of Korean Medicine, Kyung Hee University|
 
 ## 📞 Contact
 
 | **Name**   | Yunna Anna Kim | 
 | **E-mail**   | <a href="mailto:yunna.anna.kim@khu.ac.kr">yunna.anna.kim@khu.ac.kr</a> | 
-| **Address**   | Department of Neuropsychiatry, Korean Medicine Hospital, Kyung Hee University Medical Center, 23 Kyungheedae-ro, Dongdaemun-gu, 02447, Seoul, Republic of Korea
+| **Address**   | Department of Neuropsychiatry, Korean Medicine Hospital, Kyung Hee University Medical Center, 23 Kyungheedae-ro, Dongdaemun-gu, 02447, Seoul, Republic of Korea|
