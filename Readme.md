@@ -29,10 +29,10 @@ Research
 - Data science
 
 ## 🎓 Education and Qualifications
-- **Ph.D.**, Neuropsychiatry, Clinical Korean Medicine, [Kyung Hee University](https://khu.ac.kr/), Seoul, Korea (Sep 2016 - Aug 2020)<br>
+- **Ph.D.**, Neuropsychiatry, Clinical Korean Medicine, [Kyung Hee University](https://khu.ac.kr/), Seoul, Korea (_Sep 2016 - Aug 2020_)<br>
    - **Awarded _First Prize, Kyung Hee University Best Dissertation Award (Medical science)_** <br>
-- **M.Sc.**, Neuropsychiatry, Clinical Korean Medicine, [Kyung Hee University](https://khu.ac.kr/), Seoul, Korea (Sep 2014 - Aug 2016)<br> 
-- **B.Sc.**, Korean Medicine, [Kyung Hee University](https://khu.ac.kr/), Seoul, Korea (Mar 2008 - Feb 2014) 
+- **M.Sc.**, Neuropsychiatry, Clinical Korean Medicine, [Kyung Hee University](https://khu.ac.kr/), Seoul, Korea (_Sep 2014 - Aug 2016_)<br> 
+- **B.Sc.**, Korean Medicine, [Kyung Hee University](https://khu.ac.kr/), Seoul, Korea (_Mar 2008 - Feb 2014_) 
 
 **Residency**<br> 
 - **Neuropsychiatric Resident**, Department of Neuropsychiatry, Korean Medicine Hospital, [Kyung Hee University Medical Center](https://www.khmc.or.kr/kr/), Seoul, Korea (_Mar 2015 - Feb 2018_)
@@ -109,7 +109,7 @@ Research
 
 ## Patents
 - Cho, SH., Lee, HY., Choi, HJ., Kim, Y. (2017). A composition comprising herbal mixture extract for neuroprotection <br>Korea - Registration No. 10-1987418-0000
--	Cho, SH., Kim, Y. (2016). Composition comprising extract of Lindera glauca Blume for preventing or treating neurodegenerative disease <br>Korea – Registration No. 10-1917132-0000
+- Cho, SH., Kim, Y. (2016). Composition comprising extract of Lindera glauca Blume for preventing or treating neurodegenerative disease <br>Korea – Registration No. 10-1917132-0000
 - Cho, SH., Lee, HY., Kwon, Y., Kim, Y. (2016). Pharmaceutical composition for preventing or treating neurodegerative disorder comprising an extract of Sophora japonica L.<br>US – Application No. 16/328194
 
 ## Conference Presentations
@@ -124,17 +124,17 @@ Research
 
 ## Professional Service
 ### Acamedic Service
-- Director of Academic Affairs, The Association of Women Korean Medical Doctor (2024-Present)
-- Director of Medical Insurance Policy, The Society of Korean Medicine Neuropsychiatry (2022-Present)
-- Academic affairs staff, Korean Academy for Clinical Arts (2021-Present)
-- Guest editor, BMC Complementary and Alternative Medicine (2024)
+- Director of Academic Affairs, The Association of Women Korean Medical Doctor (_2024-Present_)
+- Director of Medical Insurance Policy, The Society of Korean Medicine Neuropsychiatry (_2022-Present_)
+- Academic affairs staff, Korean Academy for Clinical Arts (_2021-Present_)
+- Guest editor, BMC Complementary and Alternative Medicine (_2024_)
   - _Anxiety and stress-related disorders: the role of botanicals_
-- Information Provider, Korean Medicine Convergence Research Information Center (2020-2024)
-- Scientific committee member, 18th Congress of the Asian College of Psychosomatic Medicine (2018)
-- Manuscript editor, Stress (2016-2020)
+- Information Provider, Korean Medicine Convergence Research Information Center (_2020-2024_)
+- Scientific committee member, 18th Congress of the Asian College of Psychosomatic Medicine (_2018_)
+- Manuscript editor, Stress (_2016-2020_)
 
 ### University Service
-- Counselor, Office of Counseling and Mental Health Services, College of Korean Medicine, Kyung Hee University (2018-Present)
+- Counselor, Office of Counseling and Mental Health Services, College of Korean Medicine, Kyung Hee University (_2018-Present_)
 
 ## 📞 Contact
 
