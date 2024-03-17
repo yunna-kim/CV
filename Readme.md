@@ -51,33 +51,21 @@ Research
 ### Current Research
 - _2023 - 2024_ | **The Establishment of Korean medicine Clinical Practice Guideline(KMCPG) and Critical Pathway(CP)for Attention Deficit Hyperactivity Disorder (ADHD)** | Korea Health Industry Development Institute
   - Principal investigator
-- **Development of head meridian activity measuring device** | Korea Health Industry Development Institute (_2023 - 2027_)
+- _2023 - 2027_ | **Development of head meridian activity measuring device** | Korea Health Industry Development Institute
   - Principal investigator
-- **Discovery of herb-pair for depression and investigation of its lipocalin-2-associated mechanism through artificial intelligence-based drug repositioning** | National Research Foundation of Korea (_2023 - 2026_)
+- _2023 - 2026_ | **Discovery of herb-pair for depression and investigation of its lipocalin-2-associated mechanism through artificial intelligence-based drug repositioning** | National Research Foundation of Korea
   - Principal investigator
-- **Development of head meridian activity measurement algorithm and establishment of clinical data through head meridian diagnosis study** | Korea Health Industry Development Institute (_2021 - 2023_)
+- _2021 - 2023_ | **Development of head meridian activity measurement algorithm and establishment of clinical data through head meridian diagnosis study** | Korea Health Industry Development Institute
   - Principal investigator
-- **Investigation of novel neuroinflammatory mechanism of depression using astrocyte-deficient animal model and research on candidate herbal compound modulating lipocalin-2** | National Research Foundation of Korea (_2020 - 2023_)
+- _2020 - 2023_ | **Investigation of novel neuroinflammatory mechanism of depression using astrocyte-deficient animal model and research on candidate herbal compound modulating lipocalin-2** | National Research Foundation of Korea 
   - Principal investigator
 
 ## 🏆 Awards and Honors
-
-**Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
-Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
-
-**Top Author Recognition** @ [DEV](https://dev.to/) _(2019 - 2020)_ <br>
-Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
-  - [How to remove condescending language from documentation](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
-  - [Onboarding a junior developer to your team? Here's 12 tips.](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a)
-<br><br>
-
-**Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
-Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
-<br><br>
-
-
-
-
+- 2023 | **Integrative Talent Award in Korean Medicine** | The Association of Women Korean Medical Doctor, Korea
+- 2020 | **First Prize, Kyung Hee University Best Dissertation Award (Medical science)** | Kyung Hee University, Korea
+- 2017 | **Second Place, 22nd Resident Best Paper Award** | Kyung Hee Medical Center, Korea
+- 2016 | **First Place, 21st Resident Best Paper Award** | Kyung Hee Medical Center, Korea
+- 2013 | **Young Hur Jun Award (Talent Award)** | College of Korean Medicine, Kyung Hee University, Korea
 
 ## 🎤 Public Speaking
 
@@ -119,7 +107,7 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 -	Cho, SH., Kim, Y. (2016). Composition comprising extract of Lindera glauca Blume for preventing or treating neurodegenerative disease <br>Korea – Registration No. 10-1917132-0000
 3.	Cho, SH., Lee, HY., Kwon, Y., Kim, Y. (2016). Pharmaceutical composition for preventing or treating neurodegerative disorder comprising an extract of Sophora japonica L.<br>US – Application No. 16/328194
 
-## Conference presentations
+## Conference Presentations
 ### Oral Presentations
 - Kim, Y., Lee, H.-Y., Choi, Y.-J., Cho, S.-H. (2019). Antidepressant effects of ginsenoside Rf on behavioral change in the glial degeneration model of depression by reversing glial loss. The Korean Society of Ginseng (2019 Autumn Ginseng Jeju Conference), Jeju, Korea
 
@@ -129,6 +117,19 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 - Kim, Y., Lee, H.-Y., Cho, S.-H. (2016). Antidepressant Effects of Pharmacopuncture (HJ11) Treatment on Chronic Stress-induced Changes in Mice. International Scientific Acupuncture and Meridian Symposium (iSAMS) 2016. Hong Kong, China
 - Kim, Y., Cho, S.-H. (2011). Complementary and Alternative Medicine Practitioners' Perceptions of the Route to Evidence-based Medicine; Questionnaire Survey and Qualitative Study. International Society for Complementary Medicine Research (6th International Congress on Complementary Medicine Research). Chengdu, China
 
+## Professional Service
+### Acamedic Service
+- 2024-Present | Director of Academic Affairs, The Association of Women Korean Medical Doctor
+- 2022-Present | Director of Medical Insurance Policy, The Society of Korean Medicine Neuropsychiatry
+- 2021-Present | Academic affairs staff, Korean Academy for Clinical Arts
+- 2024 | Guest editor, BMC Complementary and Alternative Medicine
+  - _Anxiety and stress-related disorders: the role of botanicals_
+- 2020-2024 | Information Provider, Korean Medicine Convergence Research Information Center
+- 2018 | Scientific committee member, 18th Congress of the Asian College of Psychosomatic Medicine
+- 2016-2020 | Manuscript editor, Stress
+
+### University Service
+- 2018-Present | Counselor, Office of Counseling and Mental Health Services, College of Korean Medicine, Kyung Hee University
 
 ## 📞 Contact
 
