@@ -29,10 +29,10 @@ Research
 - Data science
 
 ## 🎓 Education and Qualifications
-- **Ph.D.**, Neuropsychiatry, Clinical Korean Medicine, [Kyung Hee University](https://khu.ac.kr/), Seoul, Korea (_Sep 2016 - Aug 2020_)<br>
+- **Ph.D.**, Neuropsychiatry, Clinical Korean Medicine, [Kyung Hee University](https://khu.ac.kr/), Seoul, Korea (Sep 2016 - Aug 2020)<br>
    - **Awarded _First Prize, Kyung Hee University Best Dissertation Award (Medical science)_** <br>
-- **M.Sc.**, Neuropsychiatry, Clinical Korean Medicine, [Kyung Hee University](https://khu.ac.kr/), Seoul, Korea (_Sep 2014 - Aug 2016_)<br> 
-- **B.Sc.**, Korean Medicine, [Kyung Hee University](https://khu.ac.kr/), Seoul, Korea (_Mar 2008 - Feb 2014_) 
+- **M.Sc.**, Neuropsychiatry, Clinical Korean Medicine, [Kyung Hee University](https://khu.ac.kr/), Seoul, Korea (Sep 2014 - Aug 2016)<br> 
+- **B.Sc.**, Korean Medicine, [Kyung Hee University](https://khu.ac.kr/), Seoul, Korea (Mar 2008 - Feb 2014) 
 
 **Residency**<br> 
 - **Neuropsychiatric Resident**, Department of Neuropsychiatry, Korean Medicine Hospital, [Kyung Hee University Medical Center](https://www.khmc.or.kr/kr/), Seoul, Korea (_Mar 2015 - Feb 2018_)
