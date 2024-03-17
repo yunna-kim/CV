@@ -34,7 +34,7 @@ Research
 **M.Sc.**, Neuropsychiatry, Clinical Korean Medicine, [Kyung Hee University](https://khu.ac.kr/), Seoul, Korea (_Sep 2014 - Aug 2016_)<br> 
 **B.Sc.**, Korean Medicine, [Kyung Hee University](https://khu.ac.kr/), Seoul, Korea (_Mar 2008 - Feb 2014_) 
 
-**Residency**
+**Residency**<br> 
 **Neuropsychiatric Resident**, Department of Neuropsychiatry, Korean Medicine Hospital, [Kyung Hee University Medical Center](https://www.khmc.or.kr/kr/), Seoul, Korea (_Mar 2015 - Feb 2018_)
 
 **Medical Licensure/ Certifications**
